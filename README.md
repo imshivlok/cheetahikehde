@@ -1,2 +1,2 @@
 # cheetahikehde
-WIP - Minecraft Server Page
+Minecraft Server Page - WIP
